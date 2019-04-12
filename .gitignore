@@ -1,0 +1,11 @@
+*.settings
+settings/
+*.db
+.classpath
+.project
+*.class
+*.log
+*.jar
+*.war
+*.ear
+Database.java
